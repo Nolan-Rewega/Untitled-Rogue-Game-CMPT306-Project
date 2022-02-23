@@ -14,8 +14,10 @@ TODO
 
 
 # --------------------------------------------------------
-Demo and trailer:
-trailer: https://www.youtube.com/watch?v=-oQayukYrnE
+Demo and trailer
+
+Trailer:   https://www.youtube.com/watch?v=-oQayukYrnE
+
 demo: ... to come!
 
 
