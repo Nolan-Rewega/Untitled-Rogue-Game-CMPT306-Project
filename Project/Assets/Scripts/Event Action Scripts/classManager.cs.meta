@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: a045d947f72ae5c4b879693e8f2b203b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+=======
+guid: eb1bd02a77e527c4aaf0e544e1e0e615
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MagicClass: {fileID: 6018560208300361501, guid: 74caddbb2203d85439a896bec4fc866d, type: 3}
+  - MeeleClass: {instanceID: 0}
+  - RangeClass: {instanceID: 0}
+>>>>>>> ed71d91c8f6c5e85b538749a9b602e4c0c1511b9
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
