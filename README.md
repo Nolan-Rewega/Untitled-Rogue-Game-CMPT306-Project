@@ -10,7 +10,8 @@ EDIT: A inclusive list of my contributions to the project:
 
 # --------------------------------------------------------
 Instructions to install:
-TODO
+1. Pull the repository and run with Unity (not recommended) 
+2. or download/extract the 'Final build.zip' file from the repository.
 
 
 # --------------------------------------------------------
@@ -18,6 +19,6 @@ Demo and trailer
 
 Trailer:   https://www.youtube.com/watch?v=-oQayukYrnE
 
-demo: ... to come!
+demo: https://www.youtube.com/watch?v=wDVUb_tYSE4
 
 
