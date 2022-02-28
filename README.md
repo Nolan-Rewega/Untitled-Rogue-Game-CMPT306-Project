@@ -10,15 +10,14 @@ EDIT: A inclusive list of my contributions to the project:
 
 # --------------------------------------------------------
 Instructions to install:
-1. Pull the repository and run with Unity (not recommended) 
-2. or download/extract the 'Final build.zip' file from the repository.
+1. Download/extract the 'Final build.zip' file from the repository.
 
 
 # --------------------------------------------------------
 Demo and trailer
 
-Trailer:   https://www.youtube.com/watch?v=-oQayukYrnE
+Trailer:  https://www.youtube.com/watch?v=-oQayukYrnE
 
-demo: https://www.youtube.com/watch?v=wDVUb_tYSE4
+Demo: https://www.youtube.com/watch?v=wDVUb_tYSE4
 
 
