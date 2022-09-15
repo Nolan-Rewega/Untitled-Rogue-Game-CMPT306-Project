@@ -3,7 +3,7 @@
 EDIT: An inclusive list of my contributions to this project:
 - Creation of enemy attack and movement mechanics
 - Creation of boss attack and movement mechanics
-- Implementation of AI pathfinding algorithms (A* heuristic serach)
+- Implementation of AI pathfinding algorithms (A* heuristic search)
 - Sourcing art and sounds for all enemies and bosses.
 - Creation of ItemScript.cs along with ~11 out of 50 items
 - Project git repository maintainer.
